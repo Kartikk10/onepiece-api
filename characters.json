@@ -2,252 +2,251 @@
   {
     "id": 1,
     "name": "Monkey D. Luffy",
-    "image": "images/luffy.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/luffy.jpg"
   },
   {
     "id": 2,
     "name": "Roronoa Zoro",
-    "image": "images/zoro.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/zoro.jpg"
   },
   {
     "id": 3,
     "name": "Nami",
-    "image": "images/nami.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/nami.jpg"
   },
   {
     "id": 4,
     "name": "Usopp",
-    "image": "images/usopp.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/usopp.jpg"
   },
   {
     "id": 5,
     "name": "Vinsmoke Sanji",
-    "image": "images/sanji.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/sanji.jpg"
   },
   {
     "id": 6,
     "name": "Tony Tony Chopper",
-    "image": "images/chopper.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/chopper.jpg"
   },
   {
     "id": 7,
     "name": "Nico Robin",
-    "image": "images/robin.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/robin.jpg"
   },
   {
     "id": 8,
     "name": "Franky",
-    "image": "images/franky.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/franky.jpg"
   },
   {
     "id": 9,
     "name": "Brook",
-    "image": "images/brook.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/brook.jpg"
   },
   {
     "id": 10,
     "name": "Jimbei",
-    "image": "images/jimbei.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/jimbei.jpg"
   },
   {
     "id": 11,
     "name": "Shanks",
-    "image": "images/shanks.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/shanks.jpg"
   },
   {
     "id": 12,
     "name": "Buggy",
-    "image": "images/buggy.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/buggy.jpg"
   },
   {
     "id": 13,
     "name": "Dracule Mihawk",
-    "image": "images/mihawk.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/mihawk.jpg"
   },
   {
     "id": 14,
     "name": "Monkey D. Dragon",
-    "image": "images/dragon.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/dragon.jpg"
   },
   {
     "id": 15,
     "name": "Monkey D. Garp",
-    "image": "images/garp.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/garp.jpg"
   },
   {
     "id": 16,
     "name": "Crocodile",
-    "image": "images/crocodile.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/crocodile.jpg"
   },
   {
     "id": 17,
     "name": "Nefertari D. Vivi",
-    "image": "images/vivi.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/vivi.jpg"
   },
   {
     "id": 18,
     "name": "Portgas D. Ace",
-    "image": "images/ace.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/ace.jpg"
   },
   {
     "id": 19,
     "name": "Edward Newgate",
-    "image": "images/whitebeard.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/whitebeard.jpg"
   },
   {
     "id": 20,
     "name": "Gol D. Roger",
-    "image": "images/roger.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/roger.jpg"
   },
   {
     "id": 21,
     "name": "Silvers Rayleigh",
-    "image": "images/rayleigh.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/rayleigh.jpg"
   },
   {
     "id": 22,
     "name": "Kozuki Oden",
-    "image": "images/oden.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/oden.jpg"
   },
   {
     "id": 23,
     "name": "Enel",
-    "image": "images/enel.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/enel.jpg"
   },
   {
     "id": 24,
     "name": "Aokiji",
-    "image": "images/aokiji.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/aokiji.jpg"
   },
   {
     "id": 25,
     "name": "Kizaru",
-    "image": "images/kizaru.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/kizaru.jpg"
   },
   {
     "id": 26,
     "name": "Akainu",
-    "image": "images/akainu.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/akainu.jpg"
   },
   {
     "id": 27,
     "name": "Sengoku",
-    "image": "images/sengoku.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/sengoku.jpg"
   },
   {
     "id": 28,
     "name": "Donquixote Doflamingo",
-    "image": "images/doflamingo.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/doflamingo.jpg"
   },
   {
     "id": 29,
     "name": "Boa Hancock",
-    "image": "images/hancock.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/hancock.jpg"
   },
   {
     "id": 30,
     "name": "Bartholomew Kuma",
-    "image": "images/kuma.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/kuma.jpg"
   },
   {
     "id": 31,
     "name": "Gecko Moria",
-    "image": "images/moria.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/moria.jpg"
   },
   {
     "id": 32,
     "name": "Marshal D. Teach",
-    "image": "images/blackbeard.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/blackbeard.jpg"
   },
   {
     "id": 33,
     "name": "Sabo",
-    "image": "images/sabo.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/sabo.jpg"
   },
   {
     "id": 34,
     "name": "Marco",
-    "image": "images/marco.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/marco.jpg"
   },
   {
     "id": 35,
     "name": "Neptune",
-    "image": "images/neptune.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/neptune.jpg"
   },
   {
     "id": 36,
     "name": "Shirahoshi",
-    "image": "images/shirahoshi.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/shirahoshi.jpg"
   },
   {
     "id": 37,
     "name": "Trafalgar D. Water Law",
-    "image": "images/law.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/law.jpg"
   },
   {
     "id": 38,
     "name": "Eustass Kid",
-    "image": "images/kid.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/kid.jpg"
   },
   {
     "id": 39,
     "name": "Fujitora",
-    "image": "images/fujitora.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/fujitora.jpg"
   },
-
   {
     "id": 40,
     "name": " Ryokugyu",
-    "image": "images/ryokugyu.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/ryokugyu.jpg"
   },
   {
     "id": 41,
     "name": "Charlotte Linlin",
-    "image": "images/bigmom.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/bigmom.jpg"
   },
   {
     "id": 42,
     "name": "Charlotte Katakuri",
-    "image": "images/katakuri.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/katakuri.jpg"
   },
   {
     "id": 43,
     "name": "Kaidou",
-    "image": "images/kaiou.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/kaidou.jpg"
   },
   {
     "id": 44,
     "name": "Kozuki Momonosuke",
-    "image": "images/momonosuke.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/momonosuke.jpg"
   },
   {
     "id": 45,
     "name": "Yamato",
-    "image": "images/yamato.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/yamato.jpg"
   },
   {
     "id": 46,
     "name": "Dr. Vegapunk",
-    "image": "images/vegapunk.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/vegapunk.jpg"
   },
   {
     "id": 47,
     "name": "Imu",
-    "image": "images/imu.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/imu.jpg"
   },
   {
     "id": 48,
     "name": "Rob Lucci",
-    "image": "images/lucci.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/lucci.jpg"
   },
   {
     "id": 49,
     "name": "Koby",
-    "image": "images/koby.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/koby.jpg"
   },
   {
     "id": 50,
     "name": "Jewelry Bonney",
-    "image": "images/bonney.jpg"
+    "image": "https://kartikk10.github.io/onepiece-api/images/bonney.jpg"
   }
 ]
